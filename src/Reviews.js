@@ -4,8 +4,8 @@ class Reviews extends React.Component {
     render() {
         return (
             <div>
-                <h1>Reviews</h1>
-                <p>Put our expertise to work for you. At Alpha Consulting &amp; Tax, Inc., 
+                <h1 className="center">Reviews</h1>
+                <p className="header-content center">Put our expertise to work for you. At Alpha Consulting &amp; Tax, Inc., 
                 we are proud to have received the following recognition from some of our 
                 happy and loyal clients.</p>
 

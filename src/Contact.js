@@ -5,7 +5,7 @@ class Contact extends React.Component {
         return (
             <div>
                 <h1 className="center">Contact Alpha Consulting & Tax, Inc.</h1>
-                <p>At Alpha Consulting & Tax, Inc., our attentive 
+                <p className="contact-header-p header-content center">At Alpha Consulting & Tax, Inc., our attentive 
                 staff is available Monday through Friday 9am - 5:30pm 
                 to answer all of your questions and make every effort 
                 to ensure you are 100% satisfied.</p>

@@ -5,7 +5,7 @@ class About extends React.Component {
         return (
             <div>
                 <h1 className="center">About</h1>
-                <p>Alpha Consulting &amp; Tax, Inc. is family-owned and operated 
+                <p className="header-content center">Alpha Consulting &amp; Tax, Inc. is family-owned and operated 
                 right here in Encino, CA Since our company opened its doors in 
                 1996, we’ve treated every customer like they were a part of our 
                 family. Other companies may offer similar services but our staff, 
